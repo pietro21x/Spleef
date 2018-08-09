@@ -1,0 +1,21 @@
+name: SpleefFixByPietro
+main: Spleef\SpleefBattle\SpleefBattle
+version: 1.0
+api: 
+- 3.0.0
+commands:
+    spleef:
+        usage: /spleef <esci-setta>
+        description: Spleef Arena 
+    lang:
+        usage: /lang <en>
+        description: Spleef Lingua
+    spleefrank:
+        usage: /spleefrank
+        description: SPLEEF rank
+    spleefstart:
+        usage: /spleefstart
+        description: spleef autostart
+    money:
+        usage: /money
+        description: Set-Money-Win
